@@ -2,17 +2,20 @@
 
 Operator turned builder.
 
-Growth Operations Lead at PropHero (RevOps), sitting between Product, Revenue and
-CX. My job is turning messy processes into systems teams actually use: dashboards,
-workflows, cadences.
+Strategic Projects Lead at VIVLA, a premium second-home co-ownership company. I
+design, validate and launch new levers for revenue, margins and conversion, and
+turn them into systems that run day to day. Before that, Growth Operations Lead at
+PropHero (RevOps), turning messy processes into systems teams actually use:
+dashboards, workflows, cadences.
 
 Outside of that I am building toward running my own company. The way I am getting
 there is shipping real things with Claude Code, for real users.
 
 ## What I am building
 
-**GPS Health Center**: health tracking for people who quit every other app. One tab
-to log, one tab to see whether it is working. React PWA, Express, MySQL.
+**GPS Health Center** (on pause for now): health tracking for people who quit every
+other app. One tab to log, one tab to see whether it is working. React PWA, Express,
+MySQL.
 
 **[clinicasagarzazu.es](https://clinicasagarzazu.es)**: production site for a dental
 clinic in Irún. Python build pipeline behind it: blog, Google reviews, translations,
@@ -25,7 +28,8 @@ coordinates.
 ## Background
 
 Industrial Engineering (Tecnun), then Deloitte technology strategy, then business
-development, then PropHero: two promotions in twelve months. Before all of it I
+development, then PropHero: two promotions in twelve months, and now VIVLA. Before
+all of it I
 founded a university esports organization and ran it for four years.
 
 Most of my repos are private because they carry client, health or financial data.
