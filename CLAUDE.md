@@ -1,37 +1,26 @@
-# Agent Instructions - GitHub profile README
+# gorkaperezs
 
-This repo exists for one reason. GitHub renders `README.md` from a public repo
-named exactly the owner's username onto `github.com/gorkaperezs`, and that README
-is the profile's About section. There is no other way to get one, which is why this
-cannot live inside another repo and cannot be private.
-
-**This repo is public and permanent.** Everything committed here is visible to
-anyone and cached by search engines. Universal working habits live in
-`~/.claude/CLAUDE.md`; this file only adds what a public profile needs.
+This repo holds the `README.md` that GitHub renders as the About section of
+github.com/gorkaperezs, which is why it is public (universal rule 13). Everything
+committed here is read by recruiters and founders, cached by search engines, and
+stays in git history for good.
 
 ## Rules
 
-1. **When in doubt about any fact, ask Gorka. Never assume.** A wrong guess here is
-   read by recruiters, founders and search engines.
-2. **Point at sources, never copy them.** Career facts live in
-   `gorka-code/context/job-experience.md`, product facts in each product's own repo. Read
-   them, write derived prose, and never commit the source files: they carry
-   internal context that must not reach a public repo. Pointing also means this
-   page cannot silently drift from the CV.
-3. **`gorka-code/context/job-experience.md` owns career framing.** It marks which facts are
-   outward-facing and how each must be phrased. Follow it exactly. Where it is
-   silent, ask Gorka rather than inventing a phrasing.
-4. **No dead links.** Verify every URL resolves before committing, and leave a link
-   out rather than ship one that fails.
-5. **US English, short plain sentences, no em dashes** (universal rules 7 and 8).
+1. **Draft through gorka-code.** Before changing `README.md`, follow the
+   "Outward-facing drafts" bullet in `C:\Users\Gorka\code\gorka-code\CLAUDE.md`. It
+   names the gates in `gorka-code/TODO.md` and the files that set the wording,
+   including which role this page shows. Product facts come from each product's
+   own repo.
+2. **Derive, never copy, and ask when unsure.** Write new prose from those sources
+   and never commit a source file, since they carry internal context. Where a
+   source is silent or a fact is in doubt, ask Gorka: a wrong guess here is public.
+3. **No dead links.** Open every URL before committing, and leave a link out
+   rather than ship one that fails.
 
 ## Structure
 
-`README.md` and this file, nothing else.
-
-No `TODO.md`: per universal rule 12, a repo whose entire content is a single public
-artifact keeps its tasks in the tracker of the workspace that owns them, which here
-is `gorka-code/TODO.md`.
-
-No image assets either. GitHub hosts profile avatars itself once uploaded through
-the browser, and the canonical copy of the photo lives in `gorka-code/assets/`.
+`README.md` and this file, nothing else. Tasks for this page live in
+`gorka-code/TODO.md` (universal rule 12). No image assets: GitHub stores the
+avatar once uploaded through the browser, and the original photo is in
+`gorka-code/assets/`.
