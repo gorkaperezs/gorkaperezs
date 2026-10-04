@@ -14,11 +14,11 @@ anyone and cached by search engines. Universal working habits live in
 1. **When in doubt about any fact, ask Gorka. Never assume.** A wrong guess here is
    read by recruiters, founders and search engines.
 2. **Point at sources, never copy them.** Career facts live in
-   `gorka-code/job-experience.md`, product facts in each product's own repo. Read
+   `gorka-code/context/job-experience.md`, product facts in each product's own repo. Read
    them, write derived prose, and never commit the source files: they carry
    internal context that must not reach a public repo. Pointing also means this
    page cannot silently drift from the CV.
-3. **`gorka-code/job-experience.md` owns career framing.** It marks which facts are
+3. **`gorka-code/context/job-experience.md` owns career framing.** It marks which facts are
    outward-facing and how each must be phrased. Follow it exactly. Where it is
    silent, ask Gorka rather than inventing a phrasing.
 4. **No dead links.** Verify every URL resolves before committing, and leave a link
